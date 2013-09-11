@@ -1,0 +1,19 @@
+[
+	{
+		"type": "IncrementingItem",
+		"title": "3Pt"
+	},
+	{
+		"type": "IncrementingItem",
+		"title": "2Pt"
+	},
+	{
+		"type": "IncrementingItem",
+		"title": "1Pt"
+	},
+	{
+		"type": "OptionListItem",
+		"title": "Climb",
+		"options": ["10Pt", "20pt", "30pt"]
+	},
+]
